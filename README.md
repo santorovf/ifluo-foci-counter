@@ -72,6 +72,10 @@ OUTPUT_DIR/
 
 Open an issue on this repository and include the settings you used and, if possible, an example image.
 
+## Credits
+
+Developed by **Victor Santoro-Fernandes** and the **A.R.T. Lab**, University of Wisconsin–Madison.
+
 ## Disclaimer
 
 This software is intended **for research use only**. It is not a medical device and has not been validated for clinical or diagnostic use. Automated counts depend on image quality and settings, so check the overlay images before using the results.
@@ -79,7 +83,7 @@ This software is intended **for research use only**. It is not a medical device 
 ## License
 
 Copyright © 2026, Board of Regents of the University of Wisconsin System.
-Developed at the University of Wisconsin–Madison.
+Developed by Victor Santoro-Fernandes and the A.R.T. Lab at the University of Wisconsin–Madison.
 
 Released under the [BSD 3-Clause License](LICENSE). You may use, modify and redistribute this code if you keep the copyright notice and disclaimer. You may not use the name of the University of Wisconsin–Madison or its contributors to endorse or promote derived products without written permission.
 

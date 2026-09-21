@@ -14,7 +14,7 @@ New features:
 6. CONTROL_PERCENTILE / DETECTION_PERCENTILE settings (default 99.5).
 
 Copyright (c) 2026, Board of Regents of the University of Wisconsin System.
-Developed at the University of Wisconsin–Madison.
+Developed by Victor Santoro-Fernandes and the A.R.T. Lab, University of Wisconsin–Madison.
 Licensed under the BSD 3-Clause License, see LICENSE.
 For research use only, not for clinical or diagnostic use.
 """
