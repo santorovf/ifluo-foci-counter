@@ -71,3 +71,17 @@ OUTPUT_DIR/
 ## Reporting issues
 
 Open an issue on this repository and include the settings you used and, if possible, an example image.
+
+## Disclaimer
+
+This software is intended **for research use only**. It is not a medical device and has not been validated for clinical or diagnostic use. Automated counts depend on image quality and settings, so check the overlay images before using the results.
+
+## License
+
+Copyright © 2026, Board of Regents of the University of Wisconsin System.
+Developed at the University of Wisconsin–Madison.
+
+Released under the [BSD 3-Clause License](LICENSE). You may use, modify and redistribute this code if you keep the copyright notice and disclaimer. You may not use the name of the University of Wisconsin–Madison or its contributors to endorse or promote derived products without written permission.
+
+If this tool contributes to a publication, please cite this repository:
+<https://github.com/santorovf/ifluo-foci-counter>

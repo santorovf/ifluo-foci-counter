@@ -12,6 +12,11 @@ New features:
 4. Seed inclusion in growth mask, guarantees markers can expand.
 5. USE_CONTROLS switch, set False to threshold every image on its own statistics.
 6. CONTROL_PERCENTILE / DETECTION_PERCENTILE settings (default 99.5).
+
+Copyright (c) 2026, Board of Regents of the University of Wisconsin System.
+Developed at the University of Wisconsin–Madison.
+Licensed under the BSD 3-Clause License, see LICENSE.
+For research use only, not for clinical or diagnostic use.
 """
 
 import os, re
