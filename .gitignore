@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.spyproject/
+
+# keep images and results out of the repo
+*.tif
+*.tiff
+*.png
+*.jpg
+*.czi
+*.csv
+*.zip

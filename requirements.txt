@@ -1,0 +1,5 @@
+numpy
+scipy
+scikit-image>=0.20,<0.28
+matplotlib
+pandas
